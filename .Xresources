@@ -1,0 +1,40 @@
+XTerm.vt100.faceName: Liberation Mono:size=10:antialias=false
+XTerm.vt100.font: 7x13
+
+! special
+*.foreground:   #d99864
+*.background:   #040100
+*.cursorColor:  #d99864
+
+! black
+*.color0:       #040100
+*.color8:       #2b2927
+
+! red
+*.color1:       #8e0a00
+*.color9:       #8f1d15
+
+! green
+*.color2:       #01592d
+*.color10:      #01552b
+
+! yellow
+*.color3:       #fded02
+*.color11:      #ccbf02
+
+! blue
+*.color4:       #4c1200
+*.color12:      #713700
+
+! magenta
+*.color5:       #a16a94
+*.color13:      #a16a94
+
+! cyan
+*.color6:       #6d3e15
+*.color14:	#6d3e15
+
+! white
+*.color7:       #eeeaea
+*.color15:      #ffffff
+
